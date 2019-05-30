@@ -17,17 +17,17 @@ parameters through an optimization algorithm could significantly improve the sys
 
 
 
-#Google Glass
+# Google Glass
 
 ![Google Glass](images/googleglass.png "Google Glass")
 
 
-#TGlASS's Architecture
+# TGlASS's Architecture
 
 ![TGLASS Architecture](images/architecture.png "TGLASS Architecture")
 
 
-#Results
+# Results
 
 ![Results](images/results1.png "Results")
 ![Results2](images/results2.png "Results2")
