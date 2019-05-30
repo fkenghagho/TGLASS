@@ -1,7 +1,7 @@
-# TGLASS
+# 1. Introduction to TGLASS
 Human Motion Tracking On Smartglasses Using Built-in Sensors
 
-Abstract—Global Positioning Systems(GPS) have been critical in human motion tracking. However, their inaccessibility in
+Global Positioning Systems(GPS) have been critical in human motion tracking. However, their inaccessibility in
 indoor-environments(buildings, undersea locations...) makes them sometimes useless. Alternatively, external references(maps,
 cameras, wireless access points, laser sensors, known sensor locations...) in parallel with machine learning algorithms(artificial
 neuronal networks, kalman and particles filters...) are used most of the time. Unfortunately, such solutions cannot
@@ -17,17 +17,17 @@ parameters through an optimization algorithm could significantly improve the sys
 
 
 
-# Google Glass
+# 2. Google Glass
 
 ![Google Glass](images/googleglass.png "Google Glass")
 
 
-# TGlASS's Architecture
+# 3. TGlASS's Architecture
 
 ![TGLASS Architecture](images/architecture.png "TGLASS Architecture")
 
 
-# Results
+# 4. Results
 
 ![Results](images/results1.png "Results")
 ![Results3](images/results3.png "Results3")
