@@ -14,3 +14,20 @@ Google glass and the results showed that our system is real-time, accurately det
 gestures and reaches a normalized root mean square error of 0.2 for the step feature and 0.46 for the distance. Since learning of
 parameters was typically done manually, it has been thought that a systemization of those parameters and an automatic learning of
 parameters through an optimization algorithm could significantly improve the system performance
+
+
+
+#Google Glass
+
+![Google Glass](images/googleglass.png "Google Glass")
+
+
+#TGlASS's Architecture
+
+![TGLASS Architecture](images/architecture.png "TGLASS Architecture")
+
+
+#Results
+
+![Results](images/results1.png "Results")
+![Results2](images/results2.png "Results2")
